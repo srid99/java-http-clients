@@ -39,3 +39,14 @@ bin/java-http-clients client
 
 We use [config](https://lightbend.github.io/config/) and you can find the config file [here](src/main/config/app.conf). The certificates are generated with CN `localhost`.
 So if you run the server and clients in different machines then you might have to create your own certificates.
+
+
+### License
+
+**Java HTTP clients**
+
+Copyright (C) 2018  Sridhar Gnanasekaran
+
+Project Home: https://github.com/srid99/java-http-clients
+
+See the [LICENSE](LICENSE.txt) file for license rights and limitations (Apache License, Version 2.0).
